@@ -1,0 +1,47 @@
+---
+title: "Soapbox Competition Research"
+author: "Research Team"
+date: "Shane Robbins, Nikolai Baldwin, & Chase Giles"
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+---
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+library(mosaic)
+library(tidyverse)
+library(plotly)
+
+
+```
+
+## Eco-friendly Targets
+**Target Audience Demographics**
+
+*Millennials*
+
+It was found that college age millennial's intrinsic desire for green consumption was contingent upon their frugal rationale. Since millennials are in early stages of financial development, it would be consistent with the idea that they would accentuate saving money [Naderi & Steenburg (2017)](https://www.emerald.com/insight/content/doi/10.1108/YC-08-2017-00722/full/pdf?title=me-first-then-the-environment-young-millennials-as-green-consumers).
+
+
+The target demographics for our ideal audience has found to be those who are female, 18-29, college graduates, Hispanics, and those of the Democratic party.
+
+*Non-ideal*
+
+The target demographics for our non-ideal audience has found to be those who are male, have less formal education, White, and of the Republican party.
+
+
+```{r cars}
+
+```
+
+## Notes for Graphics
+
+
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
